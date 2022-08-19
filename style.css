@@ -1,0 +1,33 @@
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.top-div{
+    width:50%;
+    padding-left: 10%;
+    margin-top: 20px;
+}
+.top-div h1{
+    font-size: 50px;
+}
+.top-div span{
+    color: orange;
+}
+.hire-me-button{
+    /*background-color: orange;*/
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    text-decoration: none;
+    padding:10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.top-div img{
+    width:80%;
+}
+.dream-big{
+    padding-top: 20px;
+}
+.dream-big h1{
+    font-size: 40px;
+}
