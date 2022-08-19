@@ -10,7 +10,7 @@
 .top-div h1{
     font-size: 50px;
 }
-.top-div span{
+.orange{
     color: orange;
 }
 .hire-me-button{
@@ -30,4 +30,30 @@
 }
 .dream-big h1{
     font-size: 40px;
+}
+.exp h1{
+    font-size: 50px;
+}
+.exp-area{
+    width:40%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    box-shadow: 5px 5px 40px grey;
+
+}
+.exp-area h1{
+    font-size: 40px;
+}
+#web_developer{
+    border-left: 10px solid tomato;
+    margin-left: 4%;
+}
+#baby_developer{
+    border-left: 10px solid blue;
+    margin-left: 4%;
+}
+footer p{
+    text-align: center;
 }
