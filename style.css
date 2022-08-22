@@ -1,3 +1,33 @@
+body{
+    margin: 0;
+}
+nav{
+    padding-top: 20px;
+    margin-left: 20em;
+}
+.nav-bar a{
+    text-decoration: none;
+    color: black;
+}
+.nav-bar-li:hover{
+    
+    background-color: rgb(230, 80, 80);
+    color: white;
+}
+.nav-bar-li{
+    list-style: none;
+    display: inline;
+    background-color: tomato;
+    padding:10px 15px;
+    margin-right: 30px;
+    margin-top: 0;
+
+}
+.nav-bar-li img{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
